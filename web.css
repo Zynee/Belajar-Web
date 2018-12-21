@@ -1,0 +1,84 @@
+body, div {
+	padding: 0px;
+	margin: 0px;
+	font-family: arial;
+	text-decoration: none;
+}
+
+nav li {
+	font-size: 100px;
+	display: inline-block;
+	overflow: hidden;
+	text-decoration: none;
+}
+
+nav ul{
+	padding-top: 100px;
+	padding-left: 37%;
+
+}
+
+nav .w1, nav .w4 {
+	color: rgba(41, 95, 247, 0.8);
+	clear: both;
+	overflow: hidden;
+}
+
+nav .w2, nav .w6{
+	color: rgba(270, 55, 55, 1.2);
+}
+
+nav .w3{
+	color: rgba(255, 192, 0, 1);
+}
+
+nav .w5{
+	color: green;
+	text-decoration: none;
+}
+
+nav .w6{
+	transform: rotate(340deg);
+}
+.input{
+	padding-left: 30%;
+}
+
+ .input input {
+ 	box-sizing: border-box;
+ 	border: rgba(208, 212, 214, 0.3);
+ 	/*background-color: rgba(208, 212, 214, 0.3);*/
+ 	background-color: green;
+ 	width: 48%;
+ 	font-size: 15px;
+ 	padding-top: 12px;
+ 	padding-bottom: 12px;
+ 	padding-right: 12px;
+ 	text-indent: 5%;
+ 	border-top-left-radius: 20px;
+ 	border-bottom-left-radius: 20px;
+ 	border-right: none;
+ 	font-family: Nevada;
+ 	margin: 0px;
+ }
+
+ .input button {
+ 	margin: 0px;
+ 	box-sizing: border-box;
+ 	/*background-color: rgba(208, 212, 214, 0.3);*/
+ 	background-color: green;
+ 	font-size: 20px;
+ 	border: rgba(208, 212, 214, 0.3);
+ 	padding: 0px;
+ 	overflow: none;
+ 	padding-top: 8px;
+ 	padding-bottom: 9px;
+ 	width: 80px;
+ 	border-top-right-radius: 20px;
+ 	border-bottom-right-radius: 20px;
+
+ }
+
+ nav a{
+ 	text-decoration: none;
+ }
