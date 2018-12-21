@@ -45,37 +45,64 @@ nav .w6{
 }
 
  .input input {
+
  	box-sizing: border-box;
+
  	border: rgba(208, 212, 214, 0.3);
- 	/*background-color: rgba(208, 212, 214, 0.3);*/
- 	background-color: green;
+
+ 	background-color: rgba(208, 212, 214, 0.3);
+
  	width: 48%;
+
  	font-size: 15px;
- 	padding-top: 12px;
+
+ 	padding-top: 13px;
+
  	padding-bottom: 12px;
+
  	padding-right: 12px;
+
  	text-indent: 5%;
+
  	border-top-left-radius: 20px;
+
  	border-bottom-left-radius: 20px;
+
  	border-right: none;
+
  	font-family: Nevada;
+
  	margin: 0px;
+
  }
 
+
  .input button {
- 	margin: 0px;
+
+ 	margin: -4px;
+
  	box-sizing: border-box;
- 	/*background-color: rgba(208, 212, 214, 0.3);*/
- 	background-color: green;
+
+ 	background-color: rgba(208, 212, 214, 0.3);
+
  	font-size: 20px;
+
  	border: rgba(208, 212, 214, 0.3);
+
  	padding: 0px;
+
  	overflow: none;
+
  	padding-top: 8px;
- 	padding-bottom: 9px;
+
+ 	padding-bottom: 11px;
+
  	width: 80px;
+
  	border-top-right-radius: 20px;
+
  	border-bottom-right-radius: 20px;
+
 
  }
 
